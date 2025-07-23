@@ -47,8 +47,8 @@ Este proyecto implementa un pipeline orquestado que sigue el flujo clásico de E
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/audileleach/etl-end-to-end.git
-   cd etl-end-to-end
+   git clone https://github.com/Audileleach/ETL-completa.git
+
 2.-Ejecuta todo con un solo comandoen la terminal:
 
     ```bash
